@@ -5,15 +5,15 @@
 
 html, body {
     height: 100%;
-    background: rgb(255,0,0);
-    background: linear-gradient(180deg, rgba(255,0,0,1) 0%, rgba(2,0,36,1) 100%);
+    background: rgb(90,101,255);
+    background: linear-gradient(180deg, rgba(90,101,255,1) 0%, rgba(172,169,169,1) 100%);
 
 }
 
 body {
     font-family: 'Raleway', sans-serif;
-    background: rgb(255,0,0);
-    background: linear-gradient(180deg, rgba(255,0,0,1) 0%, rgba(2,0,36,1) 100%);
+    background: rgb(90,101,255);
+    background: linear-gradient(180deg, rgba(90,101,255,1) 0%, rgba(172,169,169,1) 100%);
     color:white;
 }
 
@@ -21,7 +21,7 @@ body {
     width: 80px;
     border-radius: 50px;
     border: 3px solid white;
-    box-shadow: 0 0 20px black;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
 }
 
 h1{
@@ -77,13 +77,13 @@ h3{
     border-radius: 4px;
     text-decoration: none;  
     box-shadow: 0 0 10px black;
-    color: rgb(156, 7, 2);
+    color: rgb(0, 0, 0);
     font-weight: bold;
 }
 
 .links-list li a:hover {
-    background: rgb(121,9,9);
-    background: linear-gradient(86deg, rgba(121,9,9,1) 0%, rgba(0,0,0,1) 100%);
+    background: rgb(90,101,255);
+    background: linear-gradient(101deg, rgba(90,101,255,1) 0%, rgba(255,255,255,1) 100%);
 }
 
 #curriculo {
@@ -96,15 +96,15 @@ h3{
     border-radius: 4px;
     text-decoration: none;
     box-shadow: 0 0 10px black;
-    color: rgb(156, 7, 2);
+    color: rgb(7, 7, 7);
     font-weight: bold;
     text-align: center;
     
 }
 
 #curriculo:hover { 
-    background: rgb(121,9,9);
-    background: linear-gradient(86deg, rgba(121,9,9,1) 0%, rgba(0,0,0,1) 100%);
+    background: rgb(90,101,255);
+    background: linear-gradient(101deg, rgba(90,101,255,1) 0%, rgba(255,255,255,1) 100%);
 
 }
 
