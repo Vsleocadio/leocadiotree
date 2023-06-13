@@ -5,23 +5,23 @@
 
 html, body {
     height: 100%;
-    background: rgb(90,101,255);
-    background: linear-gradient(180deg, rgba(90,101,255,1) 0%, rgba(172,169,169,1) 100%);
+    background: rgb(0,16,255);
+    background: linear-gradient(180deg, rgba(0,16,255,1) 0%, rgba(16,14,28,1) 98%);
 
 }
 
 body {
     font-family: 'Raleway', sans-serif;
-    background: rgb(90,101,255);
-    background: linear-gradient(180deg, rgba(90,101,255,1) 0%, rgba(172,169,169,1) 100%);
-    color:white;
+    background: rgb(0,16,255);
+    background: linear-gradient(180deg, rgba(0,16,255,1) 0%, rgba(16,14,28,1) 98%);
+    color:rgb(255, 253, 253);
 }
 
 .avatar {
     width: 80px;
     border-radius: 50px;
-    border: 3px solid white;
-    box-shadow: 0 0 20px rgb(255, 255, 255);
+    border: 3px solid rgb(255, 255, 255);
+    box-shadow: 0 0 20px rgb(255, 254, 254);
 }
 
 h1{
