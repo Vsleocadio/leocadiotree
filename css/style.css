@@ -76,7 +76,7 @@ h3{
     padding: 15px 20px;
     border-radius: 4px;
     text-decoration: none;  
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 8px rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     font-weight: bold;
 }
@@ -88,14 +88,14 @@ h3{
 
 #curriculo {
 
-    margin: 10px 70px;
+    margin: 10px 80px;
     margin-top: 20px;
     display: block;
     background: white;
     padding: 15px 20px;
     border-radius: 4px;
     text-decoration: none;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 8px rgb(255, 255, 255);
     color: rgb(7, 7, 7);
     font-weight: bold;
     text-align: center;
